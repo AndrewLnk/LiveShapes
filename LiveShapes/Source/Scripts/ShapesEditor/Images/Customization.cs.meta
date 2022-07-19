@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: 4893ac55b33cc5246a6219b17c214297
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MainPanelIcon: {fileID: 2800000, guid: fb00ee7948b566e48954081d908a37cc, type: 3}
+  - CloseImage: {fileID: 2800000, guid: 9f974b464c2e0ec408749409cb0fb25f, type: 3}
+  - ViewReset: {fileID: 2800000, guid: 566efec00791c43498369f80fe516a7e, type: 3}
+  - CreatePanelIcon: {fileID: 2800000, guid: bc1ad8180477bf9409ccef36f6695dbd, type: 3}
+  - CurvePanelIcon: {fileID: 2800000, guid: 3014d7202a29de84b8ac1625c4f17841, type: 3}
+  - MeshPanelIcon: {fileID: 2800000, guid: 0c7c5e89fb8d19449a380a46be6bd28b, type: 3}
+  - ExportPanelIcon: {fileID: 2800000, guid: 436b728d332dd634082c90c3011e776c, type: 3}
+  - IconEditCornersDefault: {fileID: 2800000, guid: 989dda264e7869c44ae57a33e1cbdca7,
+      type: 3}
+  - IconEditCornersActive: {fileID: 2800000, guid: 96ca8a92d58556e46a29f8a3f7af1689,
+      type: 3}
+  - HandlesHideDefault: {fileID: 2800000, guid: 1cdde4bf702751f49bc860295fc34015,
+      type: 3}
+  - AllHandlesHideDefault: {fileID: 2800000, guid: 872f4fbcd6da47049a51550cf155a8c9,
+      type: 3}
+  - IconCreateRect: {fileID: 2800000, guid: a530c5bb0341004469364fc558090a54, type: 3}
+  - IconCreateCircle: {fileID: 2800000, guid: 9192761ad5a5a4e44bf6edb2a6b2d2ab, type: 3}
+  - IconCreateTriangle: {fileID: 2800000, guid: cad95902967407944a649fd6ac6893cf,
+      type: 3}
+  - RemoveCurve: {fileID: 2800000, guid: 4a2fa4f00026f40499c06e5ead3c7e9c, type: 3}
+  - ElementVisibleIcon: {fileID: 2800000, guid: 3afd5d219df756e45bea25f6ced7d937,
+      type: 3}
+  - ElementHiddenIcon: {fileID: 2800000, guid: 3b5a03a850c336c4bb9f7cb62f3a0124, type: 3}
+  - ElementToggleActive: {fileID: 2800000, guid: 5b514d5b3007a084b97f3585acdc2192,
+      type: 3}
+  - ElementTogglePassive: {fileID: 2800000, guid: 6b7c575ce88956f42b298d1d298b6f89,
+      type: 3}
+  - Reset: {fileID: 2800000, guid: 3b99e9deed02415499f4fb67069f072f, type: 3}
+  - WarningIcon: {fileID: 2800000, guid: bd35588f427a0ea4692931f23793b8c2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

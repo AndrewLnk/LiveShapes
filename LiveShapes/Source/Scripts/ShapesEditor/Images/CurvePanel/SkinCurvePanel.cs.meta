@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c83c43c8b066f734f93a4e27dea7c13b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - icon: {fileID: 2800000, guid: 3014d7202a29de84b8ac1625c4f17841, type: 3}
+  - editCornersOn: {fileID: 2800000, guid: 96ca8a92d58556e46a29f8a3f7af1689, type: 3}
+  - editCornersOff: {fileID: 2800000, guid: 989dda264e7869c44ae57a33e1cbdca7, type: 3}
+  - handlesHide: {fileID: 2800000, guid: 1cdde4bf702751f49bc860295fc34015, type: 3}
+  - onlyCurve: {fileID: 2800000, guid: 872f4fbcd6da47049a51550cf155a8c9, type: 3}
+  - focusOn: {fileID: 2800000, guid: 566efec00791c43498369f80fe516a7e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

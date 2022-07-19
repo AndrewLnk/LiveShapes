@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ee4e0ed39c15a604c8ecad0c1d5e5595
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - icon: {fileID: 2800000, guid: bc1ad8180477bf9409ccef36f6695dbd, type: 3}
+  - createRect: {fileID: 2800000, guid: a530c5bb0341004469364fc558090a54, type: 3}
+  - createCircle: {fileID: 2800000, guid: 9192761ad5a5a4e44bf6edb2a6b2d2ab, type: 3}
+  - createTriangle: {fileID: 2800000, guid: cad95902967407944a649fd6ac6893cf, type: 3}
+  - removeShape: {fileID: 2800000, guid: 4a2fa4f00026f40499c06e5ead3c7e9c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
