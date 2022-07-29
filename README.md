@@ -1,5 +1,5 @@
-# LiveShapes
- [For Unity 3D] This package is designed to create shapes using Bezier curves. It allows you to quickly create the necessary shapes and 2D objects.
+# LiveShapes [For Unity 3D]
+ This package is designed to create shapes using Bezier curves. It allows you to quickly create the necessary shapes and 2D objects.
 
 
 This package allows you to create the necessary objects for a 2D project or interface directly in Unity. For example, shapes created with this package can be used as interface elements in SVG format. In this case, you will need a vector graphics package "Vector Graphics", which you can download in the Package Manager.
