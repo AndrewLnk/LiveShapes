@@ -30,5 +30,3 @@ There are also additional settings for optimizing mesh generation, which allows 
 If the created form was saved in the .ls format, then it can be loaded into the editor and edited again.
 
 If the demo scene doesn't display prefabs when you install the package, reimport the Example folder.
-
-Tutorial [PDF]: https://drive.google.com/file/d/1-m9RzViNZrvCScWv2rFrJeKUXKvvlIee/view
